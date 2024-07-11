@@ -1,0 +1,1140 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b" findaidstatus="unverified-full-draft" audience="internal" id="a0" countryencoding="iso3166-1" dateencoding="iso8601" scriptencoding="iso15924" repositoryencoding="iso15511">
+        <eadid mainagencycode="US-nnajhs" url="file:/usr/local/projects/migration_scripts/nyead/ead/nnajhs/AdlerFamily.xml">nnajhs_adlerfamily</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the Adler Family Papers,<lb/>
+                    <date type="inclusive" normal="1893/1992" era="ce" calendar="gregorian">1893-1992</date>
+                    <lb/>
+                    <date type="bulk" normal="1920/1977" era="ce" calendar="gregorian">(bulk 1920-1977)</date>
+                </titleproper>
+                <titleproper>
+                    <lb/>
+                    <lb/>P-890</titleproper>
+                <author>Originally processed by David Morrill Schlitt in June-August 2007. Additional processing by Rachel S. Harrison in April 2010 as part of the Leon Levy Archival Processing Initiative, made possible by the Leon Levy Foundation. Further processing done by Rachel S. Harrison in April 2013 as part of the Jewish Performing Arts Digital Archive Initiative.</author>
+            </titlestmt>
+            <editionstmt>
+                <p>This version was derived from AdlerFamily.xml</p>
+            </editionstmt>
+            <publicationstmt>
+                <address>
+                    <addressline>American Jewish Historical Society</addressline>
+                    <addressline>Center for Jewish History</addressline>
+                    <addressline>15 West 16th Street</addressline>
+                    <addressline>New York, NY 10011<lb/>
+                    </addressline>
+                    <addressline>Phone: (212) 294-6160</addressline>
+                    <addressline>Fax: (212) 294-6161</addressline>
+                    <addressline>Email:<emph>
+                            <extref xlink:type="simple" xlink:href="mailto:info@ajhs.org">info@ajhs.org</extref>
+                        </emph>
+                    </addressline>
+                    <addressline>URL:<emph>
+                            <extref xlink:type="simple" xlink:href="http://www.ajhs.org">http://http://www.ajhs.org</extref>
+                        </emph>
+                    </addressline>
+                </address>
+                <p>
+                    <date era="ce" calendar="gregorian">&#xA9; 2010.</date>American Jewish Historical Society, Boston, MA and New York, NY. All rights reserved.</p>
+                <publisher>Center for Jewish History, Publisher.</publisher>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Machine-readable finding aid was created by Rachel S. Harrison as MS Word and Excel 2000 documents in<date era="ce" calendar="gregorian">April 2010</date>. Electronic finding aid was converted to EAD 2002 by Rachel S. Harrison in<date era="ce" calendar="gregorian">April 2010</date>.</creation>
+            <langusage>Description is in<language langcode="eng" encodinganalog="546$a" scriptcode="Latn">English</language>.</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+        <did id="a1">
+            <head>Descriptive Summary</head>
+            <unittitle label="Title" encodinganalog="245bb00$a">Adler Family Papers</unittitle>
+            <unitdate encodinganalog="245$f" normal="1900/2009" type="inclusive" era="ce" calendar="gregorian">1893-1992 (bulk 1920-1977)</unitdate>
+            <unitid label="Accession number" encodinganalog="852bb\\$l" repositorycode="US-nnajhs">P-890</unitid>
+            <physdesc label="Quantity" encodinganalog="300bb\\$a">2 manuscript boxes, 1 half manuscript box, 1 OS1 box, 1 OS5 box, 1 OS2 folder.</physdesc>
+            <physdesc>3.5 linear feet</physdesc>
+            <repository label="Repository">
+                <corpname authfilenumber="n 81114439" source="lcnaf" role="repository">American Jewish Historical Society</corpname>
+            </repository>
+            <origination label="Creator">Ellen Adler and Selwyn Freed</origination>
+            <abstract label="Abstract" encodinganalog="520bb8\$a">This collection contains the personal and professional papers of Celia Adler and Lazar Freed, including theatrical materials such as scripts, programs and sheet music, correspondence, newspaper clippings, assorted publications, and photographs of many of the members of the Adler family and their friends from the Yiddish theater. These materials reflect the wide scope of the Adler acting family and their immense influence on Yiddish theater, Broadway and motion pictures.</abstract>
+            <langmaterial label="Languages" encodinganalog="546bb\\$a">The collection is in<language langcode="yid">Yiddish</language>and<language langcode="eng">English</language>with some<language langcode="heb">Hebrew,</language>
+                <language langcode="rus">Russian,</language>
+                <language langcode="ger">German,</language>and<language langcode="dut">Dutch.</language>
+            </langmaterial>
+        </did>
+        <bioghist id="a2" encodinganalog="545bb\\$a">
+            <head>Biographical and Historical Note</head>
+            <bioghist>
+                <p>
+                    <emph render="bold">Celia Adler</emph>
+                </p>
+                <p>Celia Feinman Adler was born in New York on December 6, 1889 and was the only child of actors Jacob P. Adler and his second wife Dinah Shtettin. She was known as the &#x201C;First Lady of the Yiddish Theatre.&#x201D; Her parents&#x2019; marriage was short-lived and after Jacob Adler&#x2019;s 1891 elopement with Sara Heine, Dinah divorced Jacob and married actor Siegmund Feinman. Their daughter Lillie Feinman married Yiddish actor Ludwig Satz. Dinah continued to appear onstage with Jacob Adler even after their divorce and, at age four, Celia Adler acted in &#x201C;Der Yidisher Kenig Lear&#x201D; (The Jewish King Lear) alongside her father and his new wife, Sara.</p>
+                <p>In 1918, Maurice Schwartz hired Celia for his Yiddish Art Theater. Others in the troupe included Jacob Ben-Ami, Ludwig Satz, Berta Gersten, and Lazar Freed (May 30, 1889-March 11, 1944), whom she married soon after joining the troupe. They had a son, Selwyn (Zelig) Freed, before divorcing. Schwartz&#x2019;s repertory was the classic Yiddish melodramas and vaudeville that were so popular at the time and Adler was usually cast as a weeping maiden or a desperate mother. Adler and Ben-Ami persuaded Schwartz to stage a serious drama, Peretz Hirschbein&#x2019;s &#x201C;Farvorfen Vinkel&#x201D; (Forsaken Nook) but although the play was a hit, Schwartz quickly returned to his former material.</p>
+                <p>Under the leadership of Ben-Ami, a group of actors, including Celia Adler, broke away, founding the Jewish Art Theater (Naye Teater) in 1919. Inspired by the Moscow Art Theater and the new trend towards realism in drama, they developed a small literary repertoire with fully realized characterizations. They adopted a single Yiddish dialect to be used consistently, what ultimately came to be known as &#x201C;theater Yiddish,&#x201D; and appointed a literary-artistic committee to choose the repertoire. They hired a professional director, Emanuel Reicher of the Deutsche Freie Buehne (German Free Stage), and engaged professionals to design the sets and lighting. The new theater&#x2019;s first season, including Hirschbein&#x2019;s &#x201C;The Idle Inn&#x201D; and Leo Tolstoy&#x2019;s &#x201C;Power of Darkness,&#x201D; marked a high point in the development of Yiddish theater but the troupe folded quickly and the members dispersed.</p>
+                <p>In 1921&#x2013;1922, Celia Adler, Ben-Ami, and Satz performed at the Irving Place Theater, and in 1923 Adler acted again under the direction of Maurice Schwartz, appearing as leading lady of the troupe. During the 1923&#x2013;1924 season, she appeared as a guest star with Anschel Shur in Philadelphia and toured Europe and America with her brother-in-law, Ludwig Satz. In 1927&#x2013;1928, Adler tried directing her own repertory company, varying this work with guest roles at the various Yiddish theaters in New York and Philadelphia. While at the Yiddish Art Theater in 1929&#x2013;1930 at Philadelphia&#x2019;s Arch Street Theater, she met Jack Cone, an actor and theater manager she had known in childhood. They soon married, although this second marriage also ended in divorce.</p>
+                <p>Adler appeared in the films &#x201C;Abe&#x2019;s Imported Wife&#x201D; and the 1937 production &#x201C;Vu Iz Mayn Kind?&#x201D; (Where Is My Child?), a reprise of the melodramatic tearjerkers of her earlier years. In 1938 she joined the Yiddish Dramatic Players, together with the new star of the Yiddish stage, Joseph Buloff. Adler continued to act on the Yiddish and English stage throughout the 1920s and 1930s, even as Yiddish theater faded away almost completely. In 1946, at age fifty-seven, Adler was called back to the stage by Ben Hecht, who cast her opposite Paul Muni (an old friend from Yiddish theater days) in his English-language play &#x201C;A Flag Is Born,&#x201D; which was one of the first theatrical portrayals of a Holocaust survivor. Members of the cast included Marlon Brando, Quentin Reynolds, and her youngest brother, Luther Adler, who also directed. Scheduled to run four weeks, the play ran for thirty weeks. Celia Adler appeared in several films and television programs from the 1930s through the early 1950s, including a small part in the 1948 film &#x201C;Naked City,&#x201D; before retiring. Adler married for a third time, to businessman Nathan Froman, who died in 1978. Less than a year later, Celia Adler died on January 31, 1979.</p>
+            </bioghist>
+            <bioghist>
+                <p>
+                    <emph render="bold">Jacob P. Adler</emph>
+                </p>
+                <p>Jacob Pavlovitch Adler, star of the Yiddish theater in Odessa, London and New York City and patriarch of a great acting clan, was born in Odessa on February 12, 1855. He established himself on the Yiddish stage in Odessa and London before moving to New York City in 1889. In New York Adler started his own Yiddish theater company, ushering in a new, more serious Yiddish theater, most notably by recruiting the Yiddish theater's first realistic playwright, Jacob Gordin. He scored a great triumph in the title role of Gordin's &#x201C;Der Yiddisher Kenig Lear&#x201D; (The Yiddish King Lear), set in 19th-century Russia, and in the title role of Karl Gutzkow&#x2019;s play &#x201C;Uriel Acosta,&#x201D; which along with his more realistic portrayal of Shakespeare's Shylock would form the core of the persona he defined as the &#x201C;Grand Jew.&#x201D;</p>
+                <p>Jacob Adler married the actress Sonya Oberlander in 1880 and together they had two children, Rivka, who was born in 1883 and died of croup in 1886, and Abram, born 1886. Sonya died of an infection contracted while giving birth to Abram. At the same time, Jacob had been having an affair with actress Jenny &#x201C;Jennya&#x201D; Kaiser, who gave birth to his son Charles, also in 1886, and with a young chorus girl from an Orthodox Jewish family, Dinah Shtettin, as well as several other affairs. Dinah's father insisted on a marriage, which took place in 1887. In 1889, Dinah gave birth to a daughter, Celia, but the marriage did not last. After Jacob ran away with Maurice Heine&#x2019;s ex-wife Sara (1858 &#x2013; April 28, 1953), Dinah and Jacob were divorced. Together, Jacob and Sara Adler were two of the most prominent Yiddish theater actors for almost 30 years and Sara continued to act after Jacob Adler&#x2019;s death in 1926. Jacob and Sara Adler had six children together, Frances, Florence, Jay, Julia, Stella, and Luther, all of whom, like their three older half-siblings, were involved with the theater, particularly Stella and Luther, who were involved with the Group Theater. Many of the Adler nieces, nephews, in-laws, grandchildren, and great-grandchildren were also involved in theater and films.</p>
+                <p>On March 31, 1926, Jacob Adler collapsed, dying almost instantly. Thousands of mourners marched with his coffin through the streets of the Lower East Side and a<emph render="italic">New York Times</emph>editorial maintained that Adler&#x2019;s death marked the end of the heroic age of the Yiddish theater.</p>
+                <p>
+                    <emph render="bold">References</emph>
+                </p>
+                <p>Adler, Celia.<emph render="italic">Tsili Adler Dertseylt</emph>. Nyu-york: Tsili Adler Faundeyshon un Bukh-Komitet, 1959.</p>
+                <p>Adler, Jacob, translated by Lulla Rosenfeld.<emph render="italic">Jacob Adler: A Life on the Stage</emph>. New York: Applause Theater Books, 1999.</p>
+                <p>
+                    <emph render="italic">Jewish Women in America: An Historical Encyclopedia</emph>. Paula E. Hyman and Deborah Dash Moore, eds. Vol. 1, pgs. 13-15, Routledge: New York, London, 1997.</p>
+                <p>Lifson, David S.<emph render="italic">The Yiddish Theatre in America</emph>. New York: Thomas Yoseloff, 1965.</p>
+                <p>Rosenfeld, Lulla Adler.<emph render="italic">The Yiddish Theatre and Jacob P. Adler</emph>. New York: Shpolsky Publishers, 1977.</p>
+                <p>Sandrow, Nahma.<emph render="italic">Vagabond Stars</emph>. New York: Harper and Row, 1977.</p>
+                <p>Zylbercweig, Zalmen.<emph render="italic">Leksikon fun Yidishn Teater</emph>. Vol. 1, pgs. 35-37, Nyu-york: Farlag &#x201C;alishbe,&#x201D; 1931.</p>
+                <p>
+                    <emph>
+                        <extref xlink:type="simple" xlink:href="http://2ndave.nyu.edu/manakin/"/>
+                    </emph>http://2ndave.nyu.edu/manakin/</p>
+            </bioghist>
+        </bioghist>
+        <scopecontent id="a3" encodinganalog="520bb8\$b">
+            <head>Scope and Content Note</head>
+            <p>The collection relates to the theatrical careers of Celia Adler and Lazar Freed, as well as the greater Adler acting family, including Jacob P., Sara, Frances, Stella, and Luther. It consists of manuscripts and printed versions of plays in Yiddish, English and Hebrew, lectures, theater programs, clippings of reviews of various productions, poems and songs, press notices, flyers, correspondence, memorabilia, Russian theater books, drawings, and programs and posters for performances. There are also photographs and drawings of Lazar Freed and of many of the Adler family in performances and in publicity stills. There are manuscript pages of an English translation of Celia Adler&#x2019;s autobiography, which was never published.</p>
+        </scopecontent>
+        <arrangement id="a5" encodinganalog="351bb\\$b">
+            <head>Arrangement</head>
+            <p>The collection is arranged by topic and document format. The Yiddish materials are arranged according to the Hebrew alphabet and the English materials are arranged according to the Latin alphabet. The collection has been divided into nine series, the first of which has been further divided into subseries.</p>
+            <list>
+                <item>
+                    <ref xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" target="serI" xlink:href="">Series I: Monologues, Dramas, Lectures and Other Writings, 1977, undated</ref>
+                    <list>
+                        <item>
+                            <ref xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" target="subserI-1" xlink:href="">Subseries 1: Yiddish Monologues, undated</ref>
+                        </item>
+                        <item>
+                            <ref xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" target="subserI-2" xlink:href="">Subseries 2: English Monologues, undated</ref>
+                        </item>
+                        <item>
+                            <ref xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" target="subserI-3" xlink:href="">Subseries 3: Dramas, 1977, undated</ref>
+                        </item>
+                        <item>
+                            <ref xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" target="subserI-4" xlink:href="">Subseries 4: Lectures, Interviews and Writings, undated</ref>
+                        </item>
+                    </list>
+                </item>
+                <item>
+                    <ref xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" target="serII" xlink:href="">Series II: Correspondence, 1920-1929, 1970-1975, undated</ref>
+                </item>
+                <item>
+                    <ref xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" target="serIII" xlink:href="">Series III: Poems and Songs, 1952, undated</ref>
+                </item>
+                <item>
+                    <ref xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" target="serIV" xlink:href="">Series IV: Manuscripts, 1959, undated</ref>
+                </item>
+                <item>
+                    <ref xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" target="serV" xlink:href="">Series V: Clippings, 1924-1929, 1946-1992, undated</ref>
+                </item>
+                <item>
+                    <ref xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" target="serVI" xlink:href="">Series VI: Programs and Announcements, 1928-1929, 1958-1961, undated</ref>
+                </item>
+                <item>
+                    <ref xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" target="serVII" xlink:href="">Series VII: Memorabilia and Miscellaneous Publications, 1917-1936, 1970-1972, undated</ref>
+                </item>
+                <item>
+                    <ref xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" target="serVIII" xlink:href="">Series VIII: Photographs, 1924-1926, 1988, undated</ref>
+                </item>
+                <item>
+                    <ref xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" target="serIX" xlink:href="">Series IX: Museum Items, 1916, undated</ref>
+                </item>
+            </list>
+        </arrangement>
+        <descgrp>
+            <relatedmaterial id="a6" encodinganalog="5441$a">
+                <head>Related Material</head>
+                <p>AJHS and YIVO have the autobiographies of Jacob P. Adler,<emph render="italic">Jacob Adler: A Life on the Stage</emph>and Celia Adler,<emph render="italic">Tsili Adler Dertseylt</emph>, as well as two books about Jacob P. Adler. In addition, the YIVO Archives has archival collections of Celia Adler&#x2019;s Papers and Jacob P. Adler&#x2019;s Papers, RG 399 and RG 1177, respectively, and collections about the Yiddish theater and the papers of other Yiddish stage actors in which Celia Adler and Jacob P. Adler are represented. The YIVO Library has a videocassette copy of the Celia Adler movie &#x201C;Where is My Child?&#x201D; and both the AJHS and YIVO Archives have photos of Celia Adler, Lazar Freed, Jacob P. Adler, and other members of the Adler acting family. The AJHS Archives has a copy of the script for &#x201C;A Flag is Born&#x201D; as well as a program for the show from 1946. Stella Adler&#x2019;s papers are at the Harry Ransom Center at the University of Texas at Austin. Luther Adler&#x2019;s papers are at the Billy Rose Theatre Division of the New York Public Library.</p>
+            </relatedmaterial>
+            <accessrestrict id="a14" encodinganalog="506$a">
+                <head>Access Restrictions</head>
+                <p>The collection is open to all researchers by permission of the Director of Library and Archives of the American Jewish Historical Society. Permission to quote from the collection must be obtained from the originating source.</p>
+            </accessrestrict>
+            <userestrict id="a15" encodinganalog="540$a">
+                <head>Use Restrictions</head>
+                <p>Information concerning the literary rights may be obtained from the Director of Library and Archives of the American Jewish Historical Society. Users must apply in writing for permission to quote, reproduce or otherwise publish manuscript materials found in this collection. For more information contact:<lb/>
+                    <lb/>American Jewish Historical Society, Center for Jewish History, 15 West 16th Street, New York, NY 10011<lb/>
+                    <lb/>E-mail:<extref xlink:type="simple" xlink:show="new" xlink:title="email address of the American Jewish Historical Society" xlink:href="mailto:info@ajhs.org">info@ajhs.org</extref>
+                </p>
+            </userestrict>
+            <prefercite id="a18" encodinganalog="524$a">
+                <head>Preferred Citation</head>
+                <p>Published citations should take the following form:<lb/>
+                    <lb/>Identification of item, date (if known); Adler Family Papers; P-890; box number; folder number; American Jewish Historical Society, Boston, MA and New York, NY.</p>
+            </prefercite>
+            <acqinfo id="a19" encodinganalog="541$a">
+                <head>Acquisition Information</head>
+                <p>The papers of Celia Adler and Lazar Freed were donated by their son Selwyn Freed in 2000. The photographs of Jacob, Sara, Stella, Luther, and Frances Adler were donated by Stella&#x2019;s daughter Ellen Adler in 2000.</p>
+            </acqinfo>
+        </descgrp>
+        <controlaccess id="a12">
+            <persname source="lcsh" encodinganalog="600$a" role="subject" authfilenumber="nr2001006430" rules="aacr2">Adler, Celia, 1899-1979</persname>
+            <persname source="lcsh" encodinganalog="600$a" role="subject" authfilenumber="n 86124164" rules="aacr2">Adler, Jacob P., 1855-1926</persname>
+            <persname source="local" encodinganalog="600$a" role="subject" rules="aacr2">Adler, Sara</persname>
+            <persname source="lcsh" encodinganalog="600$a" role="subject" authfilenumber="n 88005699" rules="aacr2">Adler, Stella</persname>
+            <persname source="lcsh" encodinganalog="600$a" role="subject" authfilenumber="no2002047273" rules="aacr2">Freed, Lazar, 1889-1944</persname>
+            <persname source="lcsh" encodinganalog="600$a" role="subject" authfilenumber="n 87933242" rules="aacr2">Goldfaden, Abraham, 1840-1908</persname>
+            <persname source="lcsh" encodinganalog="600$a" role="subject" authfilenumber="n 85345902" rules="aacr2">Gordin, Jacob, 1853-1909</persname>
+            <corpname source="lcnaf" encodinganalog="610$a" role="subject" authfilenumber="n 81114439" rules="aacr2">American Jewish Historical Society</corpname>
+            <corpname source="lcnaf" encodinganalog="610$a" role="subject" authfilenumber="no 92015629" rules="aacr2">Yiddish Art Theatre</corpname>
+            <subject source="local" encodinganalog="650$a" rules="aacr2">Jewish actors</subject>
+            <subject source="local" encodinganalog="650$a" rules="aacr2">Theater</subject>
+            <subject source="local" encodinganalog="650$a" rules="aacr2">Yiddish theater</subject>
+            <geogname role="subject" source="lcsh" encodinganalog="651$a" authfilenumber="n 79007751" rules="aacr2">New York (N.Y.)</geogname>
+            <geogname role="subject" source="lcsh" encodinganalog="651$a" authfilenumber="n 79139057" rules="aacr2">Odesa (Ukraine)</geogname>
+            <geogname role="subject" source="lcsh" encodinganalog="651$a" authfilenumber="n 83188813" rules="aacr2">Whitechapel (London, England)</geogname>
+            <genreform source="aat" encodinganalog="655$a">Correspondence</genreform>
+            <genreform source="aat" encodinganalog="655$a">Drawings (Visual Works)</genreform>
+            <genreform source="aat" encodinganalog="655$a">Manuscripts</genreform>
+            <genreform source="aat" encodinganalog="655$a">Newspaper clippings</genreform>
+            <genreform source="aat" encodinganalog="655$a">Photographs</genreform>
+            <genreform source="aat" encodinganalog="655$a">Programs</genreform>
+        </controlaccess>
+        <dsc id="a23" type="combined">
+            <head>Container List</head>
+            <c id="d9e341" level="series">
+                <did>
+                    <unittitle id="serI">Series I: Monologues, Dramas, Lectures and Other Writings</unittitle>
+                    <unitdate type="inclusive" normal="1893/1992" era="ce" calendar="gregorian">1977, undated</unitdate>
+                    <physdesc>
+                        <extent>39</extent>folders</physdesc>
+                </did>
+                <scopecontent>
+                    <p>Series I is comprised of works primarily intended for performance by Celia Adler. All of the papers in Series I are undated, with the exception of Box 1 Folder 31, a 1977 excerpt from Jacob Gordin&#x2019;s play, &#x201C;Mirele Efros,&#x201D; adapted as a monologue by Celia Adler and translated by Esther Zweig. The material is organized into four subseries, Subseries 1: Yiddish Monologues, Subseries 2: English Monologues, Subseries 3: Dramas (Yiddish, English, and Hebrew), and Subseries 4: Lectures, Interviews and Writings (Yiddish and English). Subseries 1 and 2 are ordered alphabetically. The titles of the Yiddish readings have been transliterated, and are ordered by these transliterated titles. Subseries 3 is ordered by languages and then arranged alphabetically. Subseries 4 is divided into Yiddish-language writings and English-language writings, and is then arranged by subject.</p>
+                </scopecontent>
+                <c id="d9e354" level="subseries">
+                    <did>
+                        <unittitle id="subserI-1">Subseries 1: Yiddish Monologues</unittitle>
+                        <unitdate type="inclusive" normal="1893/1992" era="ce" calendar="gregorian">undated</unitdate>
+                        <physdesc>
+                            <extent>10</extent>folders</physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Subseries 1 contains Yiddish-language monologues (both typed and handwritten) likely intended for performance by Celia Adler. Folders 1, 2, 4, 5, 6, 8, 10 lack formal authorial attribution, although Folders 4 and 8 are adapted from stories by Sholem Aleichem. Box 1 Folder 3 is adapted from &#x201C;Khane,&#x201D; by Zvee Scooler, Box 1 Folder 7 is adapted from Jacob Gordin&#x2019;s &#x201C;Di Shkhite&#x201D; (&#x201C;The Slaughter&#x201D;), and Box 1 Folder 9 is adapted from the work of Der Tunkeler, the pseudonym of writer Yosef Tunkel. It is not known which of the texts were adapted and/or transcribed by Adler herself.</p>
+                    </scopecontent>
+                    <c id="d9e367" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">1</container>
+                            <unittitle>Yiddish-Language Monologues: Deborah</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e377" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">2</container>
+                            <unittitle>Yiddish-Language Monologues: A Fule Shtub Mit Mame (A Full Room with Mother)</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e387" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">3</container>
+                            <unittitle>Yiddish-Language Monologues: Khane</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e397" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">4</container>
+                            <unittitle>Yiddish-Language Monologues: Khanike Gelt (Hanukkah Money)</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e407" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">5</container>
+                            <unittitle>Yiddish-Language Monologues: Medea</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e417" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">6</container>
+                            <unittitle>Yiddish-Language Monologues: Mirele Efros</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e427" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">7</container>
+                            <unittitle>Yiddish-Language Monologues: Di Shkhite (The Slaughter)</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e437" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">8</container>
+                            <unittitle>Yiddish-Language Monologues: Dos Tepel (The Small Pot)</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e447" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">9</container>
+                            <unittitle>Yiddish-Language Monologues: A Yid Vos Halt In Eyn Forn (A Jew who is Detained)</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e458" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">10</container>
+                            <unittitle>Yiddish-Language Monologues: A Yugend Roman (Shir Hashirim) [A Novel of Youth (Song of Songs)]</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="d9e468" level="subseries">
+                    <did>
+                        <unittitle id="subserI-2">Subseries 2: English Monologues</unittitle>
+                        <unitdate type="inclusive" normal="1893/1992" era="ce" calendar="gregorian">undated</unitdate>
+                        <physdesc>
+                            <extent>14</extent>folders</physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Subseries 2 consists of typed and handwritten English-language monologues likely intended for performance by Celia Adler. This subseries contains original work by Celia Adler (Box 1 Folder 16), as well as work adapted and/or translated by Adler and others. With the exception of Box 1 Folder 15 (&#x201C;Translated from Rosenfeld&#x201D;), the aforementioned Box 1 Folder 16, Box 1 Folder 19 (&#x201C;By Abraham Blum&#x201D;), and Box 1 Folder 21 (&#x201C;&#x2018;The Slaughter&#x2019; by Jacob Gordin, Supplemented by Celia Adler&#x201D;), the names of authors, translators and transcribers are not provided. Folders 13 and 17 are adapted and translated from stories by Sholem Aleichem.</p>
+                    </scopecontent>
+                    <c id="d9e481" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">11</container>
+                            <unittitle>English-Language Monologues: At the Millenary Counter</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e491" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">12</container>
+                            <unittitle>English-Language Monologues: The Clock That Struck Thirteen</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e501" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">13</container>
+                            <unittitle>English-Language Monologues: Hanukkah Money</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e511" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">14</container>
+                            <unittitle>English-Language Monologues: Hello Ma!</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e521" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">14</container>
+                            <unittitle>English-Language Monologues: Hello Mama</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e531" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">16</container>
+                            <unittitle>English-Language Monologues: Her Big Scene</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e541" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">17</container>
+                            <unittitle>English-Language Monologues: I&#x2019;m Lucky&#x2014;I&#x2019;m An Orphan</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e551" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">18</container>
+                            <unittitle>English-Language Monologues: The Lady and Her Dog</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e561" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">19</container>
+                            <unittitle>English-Language Monologues: Mother Zion</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e572" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">20</container>
+                            <unittitle>English-Language Monologues: The Old Maid</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e582" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">21</container>
+                            <unittitle>English-Language Monologues: The Slaughter</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e592" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">22</container>
+                            <unittitle>English-Language Monologues: The Spinster</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e602" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">23</container>
+                            <unittitle>English-Language Monologues: A Telegram</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e612" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">24</container>
+                            <unittitle>English-Language Monologues: The Widow</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="d9e622" level="subseries">
+                    <did>
+                        <unittitle id="subserI-3">Subseries 3: Dramas</unittitle>
+                        <unitdate type="inclusive" normal="1893/1992" era="ce" calendar="gregorian">1977, undated</unitdate>
+                        <physdesc>
+                            <extent>8</extent>folders</physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Subseries 3 consists of copies, translations, adaptations and excerpted dialogue from multi-character dramas. The only Hebrew text is a photostat of a translation of two Sholem Aleichem stories, &#x201C;Ashrei&#x201D; and &#x201C;Yatom Ani!&#x201D; All of the Yiddish-language dramas contain authorial attribution. Of the English-language dramas, only Box 1 Folder 32, &#x201C;Purim of a Bygone Age,&#x201D; lacks attribution. Box 1 Folder 30, &#x201C;Caution,&#x201D; is written by I.L. Peretz and translated by Celia Adler; Box 1 Folder 31 is excerpted from &#x201C;Mirele Efros,&#x201D; by Jacob Gordin, adapted by Celia Adler, and translated by Esther Zweig.</p>
+                    </scopecontent>
+                    <c id="d9e635" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">25</container>
+                            <unittitle>Yiddish-Language Dramas: Der Eybiker Vanderer (The Eternal Wanderer)</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e645" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">26</container>
+                            <unittitle>Yiddish-Language Dramas: Got, Mentsh un Tayvl (G-d, Man and Devil)</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e655" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">27</container>
+                            <unittitle>Yiddish-Language Dramas: A Purim-Shpil (A Purim Play)</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e665" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">28</container>
+                            <unittitle>Yiddish-Language Dramas: A Shnirl Perl (A Pearl Necklace)</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e675" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">29</container>
+                            <unittitle>Yiddish-Language Dramas: Hebrew Stories: Ashrei; Yatom Ani! (the name of a prayer; I&#x2019;m an Orphan!)</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e685" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">30</container>
+                            <unittitle>English-Language Dramas: Caution</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e695" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">31</container>
+                            <unittitle>English-Language Dramas: Mirele Efros</unittitle>
+                            <unitdate era="ce" calendar="gregorian">1977, undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e705" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">32</container>
+                            <unittitle>English-Language Dramas: Purim of a Bygone Age</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="d9e715" level="subseries">
+                    <did>
+                        <unittitle id="subserI-4">Subseries 4: English Monologues</unittitle>
+                        <unitdate type="inclusive" normal="1893/1992" era="ce" calendar="gregorian">undated</unitdate>
+                        <physdesc>
+                            <extent>7</extent>folders</physdesc>
+                    </did>
+                    <scopecontent>
+                        <p>Subseries 4 contains Yiddish-language and English-language lectures, interviews and other writings on historical, biographical and autobiographical subjects. All of the texts may be presumed to have been written and/or performed by Celia Adler. However, only folders 34, 35 and 37 name Celia Adler explicitly. Box 1 Folder 34 contains a scripted outline for an interview with Adler and is written on stationary from the ship &#x201C;S.S. Israel.&#x201D; Box 1 Folder 35 contains autobiographical writings, including a script that introduces excerpts from Adler&#x2019;s memoirs, &#x201C;Tsili Adler Dertseylt,&#x201D; for public readings.</p>
+                    </scopecontent>
+                    <c id="d9e728" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">33</container>
+                            <unittitle>Yiddish-Language Lectures: History of the Yiddish Theater</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e738" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">34</container>
+                            <unittitle>Yiddish-Language Lectures and Interviews</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e748" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">35</container>
+                            <unittitle>Yiddish-Language Lectures and Writings, Autobiographical</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e758" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">36</container>
+                            <unittitle>English-Language Lectures: History of the Yiddish Theater</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e768" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">37</container>
+                            <unittitle>English-Language Lectures and Writings, Autobiographical</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e778" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">38</container>
+                            <unittitle>English-Language Lectures and Writings, Biographical: Woman-Poet-Patriot: Emma Lazarus</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                    <c id="d9e788" level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">39</container>
+                            <unittitle>English-Language Lectures, Historical: Declaration of Independence, State of Israel</unittitle>
+                            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c id="d9e798" level="series">
+                <did>
+                    <unittitle id="serII">Series II: Correspondence</unittitle>
+                    <unitdate type="inclusive" normal="1920/1975" era="ce" calendar="gregorian">1920-1929, 1970-1975, undated</unitdate>
+                    <physdesc>
+                        <extent>4</extent>folders</physdesc>
+                </did>
+                <scopecontent>
+                    <p>Series II consists primarily of correspondence to and from Celia Adler, as well as the professional correspondence of Lazar Freed, including several telegrams. The materials have been arranged alphabetically by correspondent and then by language. Box 1 Folder 40 contains general and professional English-language correspondence sent to Celia Adler, including notes from her sister Stella Adler and playwright Ben Hecht. Folder 41 contains Yiddish-language correspondence from Celia Adler mainly of a professional nature, including a letter to the writer Aaron Glanz-Leyeles, and letters to newspaper editors. It is not known whether the letters are drafts, copies, or whether they were ever sent. Folder 43 contains two letters from Leon Teifer, an admirer of Adler&#x2019;s who proposed to translate her memoirs, &#x201C;Tsili Adler Dertseylt,&#x201D; into English. For fragments of Teifer&#x2019;s translated manuscript see Box 2 Folder 1.</p>
+                </scopecontent>
+                <c id="d9e811" level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">40</container>
+                        <unittitle>Adler, Celia Correspondence (English)</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1970-1975, undated</unitdate>
+                    </did>
+                </c>
+                <c id="d9e821" level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">41</container>
+                        <unittitle>Adler, Celia Correspondence (Yiddish)</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                </c>
+                <c id="d9e831" level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">42</container>
+                        <unittitle>Freed, Lazar Correspondence and Telegrams</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1920-1929, undated</unitdate>
+                    </did>
+                </c>
+                <c id="d9e841" level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">43</container>
+                        <unittitle>Teifer, Leon to Celia Adler</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1971-1972</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="d9e851" level="series">
+                <did>
+                    <unittitle id="serIII">Series III: Poems and Songs</unittitle>
+                    <unitdate type="inclusive" normal="1893/1992" era="ce" calendar="gregorian">1952, undated</unitdate>
+                    <physdesc>
+                        <extent>2</extent>folders</physdesc>
+                </did>
+                <scopecontent>
+                    <p>Series III consists of an undated composition notebook of miscellaneous Yiddish-language poems, and English-language lectures and monologues (Box 1 Folder 44), as well as a diverse and mostly undated collection of poems (Box 1 Folder 45). These materials have been arranged by format. The poems in the notebook in Box 1 Folder 44 are assumed to be in Celia Adler&#x2019;s hand; Box 1 Folder 45 contains handwritten and typed poetry copied from Yehoash, Hayyim Nahman Bialik and others, as well as a published volume from Kadya Molodowsky and a newspaper clipping by A. Zheleznikov. The song lyrics have been transliterated into Latin characters. Although all of the poetry is undated, it appears to have been copied over the course of a long period of time. Researchers may benefit from reading the copied texts in Series III alongside and in relation to the copied texts in Series I.</p>
+                </scopecontent>
+                <c id="d9e864" level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">44</container>
+                        <unittitle>Yiddish-Language Poems; English-Language Lectures and Monologues</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                </c>
+                <c id="d9e874" level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">45</container>
+                        <unittitle>Poems and Songs</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1952, undated</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="d9e884" level="series">
+                <did>
+                    <unittitle id="serIV">Series IV: Manuscripts</unittitle>
+                    <unitdate type="inclusive" normal="1893/1992" era="ce" calendar="gregorian">1959, undated</unitdate>
+                    <physdesc>
+                        <extent>2</extent>folders</physdesc>
+                </did>
+                <scopecontent>
+                    <p>Series IV consists of fragments of Celia Adler&#x2019;s memoirs, &#x201C;Tsili Adler Dertseylt,&#x201D; published in 1959. Box 1 Folder 46 contains text from the original Yiddish, while Box 2 Folder 1 contains fragments from Leon Teifer&#x2019;s English translation. There are no records of any publication of Teifer&#x2019;s translation. See Joseph C. Landis&#x2019;s &#x201C;Memoirs of the Yiddish Stage&#x201D; for the only extant translation of &#x201C;Tsili Adler Dertseylt.&#x201D; Folder 46 also includes an English fragment of the memoir&#x2019;s introduction by Adler&#x2019;s collaborator, Jacob Tikman.</p>
+                </scopecontent>
+                <c id="d9e897" level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">46</container>
+                        <unittitle>&#x201C;Tsili Adler Dertseylt&#x201D;</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1959, undated</unitdate>
+                    </did>
+                </c>
+                <c id="d9e907" level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">1</container>
+                        <unittitle>&#x201C;Celia Adler Narrates,&#x201D; Translated by Leon Teifer</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="d9e917" level="series">
+                <did>
+                    <unittitle id="serV">Series V: Clippings</unittitle>
+                    <unitdate type="inclusive" normal="1924/1992" era="ce" calendar="gregorian">1924-1929, 1946-1992, undated</unitdate>
+                    <physdesc>
+                        <extent>5</extent>folders</physdesc>
+                </did>
+                <scopecontent>
+                    <p>Series V consists of newspaper and periodical clippings from the Yiddish- and English-language press. Box 2 Folder 2 and Box 2 Folder 3 reference Celia Adler in reviews, tributes and listings, and include clippings from the Yiddish-language<emph render="italic">Forverts</emph>and<emph render="italic">Tog</emph>, as well as the English-language<emph render="italic">PM</emph>. Box 2 Folder 4 is devoted to Celia Adler&#x2019;s sister, actress Stella Adler, and contains her December 22, 1992 obituary from the<emph render="italic">New York Daily News</emph>, and a photo spread of Maurice Schwartz&#x2019;s Yiddish Art Theatre from the<emph render="italic">Forverts</emph>. Box 2 Folder 5 contains clippings of Lazar Freed from the<emph render="italic">Forverts</emph>,<emph render="italic">Tog</emph>, and the satirical magazine<emph render="italic">Der Groyser Kundes</emph>, as well as a listing from an unnamed English-language Philadelphia newspaper. Box 2 Folder 6 contains clippings mentioning or depicting Selwyn (Zelig) Freed, son of Celia Adler and Lazar Freed. The materials have been arranged alphabetically by subject name and then chronologically.</p>
+                </scopecontent>
+                <c id="d9e955" level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">2</container>
+                        <unittitle>Celia Adler</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1929, 1946-1956, undated</unitdate>
+                    </did>
+                </c>
+                <c id="d9e965" level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">3</container>
+                        <unittitle>Celia Adler</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1974, 1984</unitdate>
+                    </did>
+                </c>
+                <c id="d9e975" level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">4</container>
+                        <unittitle>Stella Adler</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1992, undated</unitdate>
+                    </did>
+                </c>
+                <c id="d9e985" level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">5</container>
+                        <unittitle>Lazar Freed</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1924-1926, 1949, 1964, undated</unitdate>
+                    </did>
+                </c>
+                <c id="d9e995" level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">6</container>
+                        <unittitle>Selwyn Freed</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1989, undated</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="d9e1005" level="series">
+                <did>
+                    <unittitle id="serVI">Series VI: Programs and Announcements</unittitle>
+                    <unitdate type="inclusive" normal="1928/1961" era="ce" calendar="gregorian">1928-1929, 1958-1961, undated</unitdate>
+                    <physdesc>
+                        <extent>2</extent>folders</physdesc>
+                </did>
+                <scopecontent>
+                    <p>Series VI consists of two folders: one dedicated to Celia Adler&#x2019;s programs and announcements and the other dedicated to those of Lazar Freed. Box 2 Folder 7 contains a 1929 program for Maurice Schwartz&#x2019;s Yiddish Art Theatre, programs and promotional material for Celia Adler&#x2019;s later solo programs and clippings from programs from Ben Hecht&#x2019;s &#x201C;A Flag Is Born.&#x201D; Researchers may want to view these alongside the monologues and lectures from Series I. Box 2 Folder 8 contains English-language programs from Boston and Los Angeles. It also contains a sheaf of photocopied programs and clippings from Boston, Antwerp and Glasgow, given to Selwyn Freed by Ella Segal.</p>
+                </scopecontent>
+                <c id="d9e1018" level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">7</container>
+                        <unittitle>Celia Adler</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1929, 1958-1961, undated</unitdate>
+                    </did>
+                </c>
+                <c id="d9e1028" level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">8</container>
+                        <unittitle>Lazar Freed</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1928, undated</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="d9e1038" level="series">
+                <did>
+                    <unittitle id="serVII">Series VII: Memorabilia and Miscellaneous Publications</unittitle>
+                    <unitdate type="inclusive" normal="1917/1972" era="ce" calendar="gregorian">1917-1936, 1970-1972, undated</unitdate>
+                    <physdesc>
+                        <extent>5</extent>folders,</physdesc>
+                    <physdesc>
+                        <extent>1</extent>oversize (OS1) box</physdesc>
+                </did>
+                <scopecontent>
+                    <p>Series VII contains miscellaneous writings and correspondence largely lacking attribution and an assortment of memorabilia from the lives of Celia Adler and Lazar Freed. Box 2 Folder 10 contains Adler&#x2019;s lifetime membership card for the Yiddish Theatrical Alliance and her Social Security card from 1936. It also contains a Jewish National Fund Certificate given in Lazar Freed&#x2019;s honor in 1924, and a 1919 play published in Leipzig by Karl Schonherr. Box 2 Folder 12 includes Adler&#x2019;s honorary membership card for the Hebrew Actors&#x2019; Union. Box 3 contains collections of sheet music in Yiddish, English, Russian and German, and four elaborate volumes on the subject of the Russian theatre. It is not known to whom these oversized items originally belonged, but all were published between the years of 1893 and 1928.</p>
+                </scopecontent>
+                <c id="d9e1055" level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">9</container>
+                        <unittitle>Miscellaneous Writings and Correspondence</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                </c>
+                <c id="d9e1065" level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">10</container>
+                        <unittitle>Memorabilia: Yiddish Theatrical Alliance Card, Kindertragodie, JNF Certificate, Social Security Card</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1917- 1936</unitdate>
+                    </did>
+                </c>
+                <c id="d9e1075" level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">11</container>
+                        <unittitle>Memorabilia and Miscellaneous Publications: Greater Recording Company Catalog, Calendar of the National Women&#x2019;s League of the United Synagogue of America, Forverts</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1970-1972</unitdate>
+                    </did>
+                </c>
+                <c id="d9e1085" level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">12</container>
+                        <unittitle>Memorabilia and Miscellaneous Publications: Hebrew Actors&#x2019; Union Card, Theater A.D. Wien, Ashmeday, Booklet of Chaliapin&#x2019;s Lyrics, Excerpts from a Book on the Yiddish Theater</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                </c>
+                <c id="d9e1095" level="file">
+                    <did>
+                        <container type="box">3 (OS1)</container>
+                        <container type="folder">1</container>
+                        <unittitle>Sheet Music in Yiddish, English, Russian, and German</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1893, 1909-1928</unitdate>
+                    </did>
+                </c>
+                <c id="d9e1105" level="file">
+                    <did>
+                        <container type="box">3 (OS1)</container>
+                        <container type="folder"/>
+                        <unittitle>Russian Theater Books</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1900, 1914-1924</unitdate>
+                    </did>
+                </c>
+            </c>
+            <c id="d9e1114" level="series">
+                <did>
+                    <unittitle id="serVIII">Series VIII: Photographs</unittitle>
+                    <unitdate type="inclusive" normal="1893/1992" era="ce" calendar="gregorian">1924-1926, 1988, undated</unitdate>
+                    <physdesc>
+                        <extent>1</extent>manuscript box,</physdesc>
+                    <physdesc>
+                        <extent>1</extent>oversize (OS5) box and</physdesc>
+                    <physdesc>
+                        <extent>1</extent>oversize (OS2) folder</physdesc>
+                </did>
+                <scopecontent>
+                    <p>This series consists of two boxes of photographs of the Adler family and some of their friends, which have been divided by size and organized by the person pictured, whenever possible. The photos of Celia Adler, Lazar Freed, Jay Adler, Celia&#x2019;s parents, Dinah Feinman and Jacob Adler, Celia&#x2019;s sister, Lillie Feinman Satz, and her husband, Ludwig Satz, and Maurice Schwartz were donated by Adler and Freed&#x2019;s son, Selwyn Freed. There is also a folder of drawings of Lazar Freed and one that appears to have been given to him. In many of the photos of Celia Adler and Lazar Freed, they are in costumes for various performances, sometimes individually and sometimes with a group or on the stage. In addition, in several of the photos of either Adler or Freed when they are not clearly in a costume, they are in a group with others, some of whom have been identified but most of whom remain unidentified. Some of the photos contain unidentified individuals and members of the extended Adler family and friends.</p>
+                    <p>The photos of Jacob, Sara, Stella, Luther, and Frances Adler, including one with her husband, Joseph Schoengold, who was also an actor, were donated by Ellen Adler. The photos of Sara Adler, Jacob&#x2019;s third wife, are labeled &#x201C;Sarah&#x201D; on the back, although they are photos of his wife, who spelled her name without an &#x2018;h&#x2019;, rather than of his sister, who spelled her name with an &#x2018;h&#x2019;. There is also a page of photos of Jacob Adler, which was published by the<emph render="italic">Forverts</emph>after his death in 1926 and which has been removed from Box 4 Folder 16 to an oversize OS2 folder, and photos of a 1988 exhibit on Yiddish theater from the National Museum of American Jewish History in Philadelphia, which displayed many artifacts of Jacob P. Adler. These photos are of individuals, rather than a group. The photos from this donation have not been divided between costumed and non-costumed portraits.</p>
+                </scopecontent>
+                <c id="d9e1140" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">1</container>
+                        <unittitle>Celia Adler</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1699357"/>
+                </c>
+                <c id="d9e1151" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">2</container>
+                        <unittitle>Celia Adler</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1699413"/>
+                </c>
+                <c id="d9e1162" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">3</container>
+                        <unittitle>Celia Adler in Costumes</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1699445"/>
+                </c>
+                <c id="d9e1173" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">4</container>
+                        <unittitle>Celia Adler in Costumes</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1699489"/>
+                </c>
+                <c id="d9e1184" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">5</container>
+                        <unittitle>Jack (Jay) Adler</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1699524"/>
+                </c>
+                <c id="d9e1195" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">6</container>
+                        <unittitle>Dinah Feinman and Jacob Adler</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1699529"/>
+                </c>
+                <c id="d9e1206" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">7</container>
+                        <unittitle>Lazar Freed</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1699555"/>
+                </c>
+                <c id="d9e1217" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">8</container>
+                        <unittitle>Lazar Freed</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1699668"/>
+                </c>
+                <c id="d9e1228" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">9</container>
+                        <unittitle>Lazar Freed in Costumes</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1699688"/>
+                </c>
+                <c id="d9e1240" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">10</container>
+                        <unittitle>Ludwig and Lillie Satz</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1699729"/>
+                </c>
+                <c id="d9e1251" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">11</container>
+                        <unittitle>Purim Party at Ludwig Satz and Lillie Feinman Satz&#x2019;s House</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <scopecontent>
+                        <p>
+                            <extref xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://www.flickr.com/photos/center_for_jewish_history/3420866835">View the image in Flickr</extref>
+                        </p>
+                    </scopecontent>
+                </c>
+                <c id="d9e1265" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">12</container>
+                        <unittitle>Maurice Schwartz</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1699809"/>
+                </c>
+                <c id="d9e1276" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">13</container>
+                        <unittitle>Unidentified</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1699814"/>
+                </c>
+                <c id="d9e1287" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">14</container>
+                        <unittitle>Family and Friends</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1699888"/>
+                </c>
+                <c id="d9e1298" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">15</container>
+                        <unittitle>Frances Adler, with husband, Joseph Schoengold</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1699929"/>
+                </c>
+                <c id="d9e1309" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">16</container>
+                        <unittitle>Jacob Adler</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1699940"/>
+                </c>
+                <c id="d9e1320" level="file">
+                    <did>
+                        <container type="box">OS2F-Shared</container>
+                        <container type="folder">1</container>
+                        <unittitle>Jacob P. Adler in Various Periods of His Life, Forverts</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1926</unitdate>
+                    </did>
+                </c>
+                <c id="d9e1330" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">17</container>
+                        <unittitle>Exhibit on Jacob Adler at National Museum of American Jewish History in Philadelphia</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1988</unitdate>
+                    </did>
+                </c>
+                <c id="d9e1340" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">18</container>
+                        <unittitle>Luther Adler</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1699951"/>
+                </c>
+                <c id="d9e1351" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">19</container>
+                        <unittitle>Sara Adler</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1699956"/>
+                </c>
+                <c id="d9e1363" level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">20</container>
+                        <unittitle>Stella Adler</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1699985"/>
+                </c>
+                <c id="d9e1374" level="file">
+                    <did>
+                        <container type="box">5 (OS5)</container>
+                        <container type="folder">1</container>
+                        <unittitle>Celia Adler</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1699993"/>
+                </c>
+                <c id="d9e1385" level="file">
+                    <did>
+                        <container type="box">5 (OS5)</container>
+                        <container type="folder">2</container>
+                        <unittitle>Celia Adler in Costumes</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1700007"/>
+                </c>
+                <c id="d9e1396" level="file">
+                    <did>
+                        <container type="box">5 (OS5)</container>
+                        <container type="folder">3</container>
+                        <unittitle>Lazar Freed</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1700042"/>
+                </c>
+                <c id="d9e1407" level="file">
+                    <did>
+                        <container type="box">5 (OS5)</container>
+                        <container type="folder">4</container>
+                        <unittitle>Lazar Freed in Costumes</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1700047"/>
+                </c>
+                <c id="d9e1418" level="file">
+                    <did>
+                        <container type="box">5 (OS5)</container>
+                        <container type="folder">5</container>
+                        <unittitle>Lazar Freed in Costumes</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1700064"/>
+                </c>
+                <c id="d9e1429" level="file">
+                    <did>
+                        <container type="box">5 (OS5)</container>
+                        <container type="folder">6</container>
+                        <unittitle>Lazar Freed drawings</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1924, undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1700102"/>
+                </c>
+                <c id="d9e1440" level="file">
+                    <did>
+                        <container type="box">5 (OS5)</container>
+                        <container type="folder">7</container>
+                        <unittitle>Ludwig Satz</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1700116"/>
+                </c>
+                <c id="d9e1451" level="file">
+                    <did>
+                        <container type="box">5 (OS5)</container>
+                        <container type="folder">8</container>
+                        <unittitle>Family and Friends</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1700121"/>
+                </c>
+                <c id="d9e1462" level="file">
+                    <did>
+                        <container type="box">5 (OS5)</container>
+                        <container type="folder">9</container>
+                        <unittitle>Jacob Adler</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1700129"/>
+                </c>
+                <c id="d9e1473" level="file">
+                    <did>
+                        <container type="box">5 (OS5)</container>
+                        <container type="folder">10</container>
+                        <unittitle>Luther Adler</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1700137"/>
+                </c>
+                <c id="d9e1485" level="file">
+                    <did>
+                        <container type="box">5 (OS5)</container>
+                        <container type="folder">11</container>
+                        <unittitle>Sara Adler</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                    <dao xlink:type="simple" xlink:actuate="onRequest" xlink:show="new" xlink:href="http://digital.cjh.org/webclient/DeliveryManager?pid=1700142"/>
+                </c>
+            </c>
+            <c id="d9e1496" level="series">
+                <did>
+                    <unittitle id="serIX">Series IX: Museum Items</unittitle>
+                    <unitdate type="inclusive" normal="1916/1992" era="ce" calendar="gregorian">1916, undated</unitdate>
+                </did>
+                <scopecontent>
+                    <p>This series contains two museum items, a suitcase and a silver calling card holder that is engraved in Yiddish, &#x201C;For Celia Adler from admirers 1916.&#x201D; The card holder was donated to AJHS by Michael Steinhardt and the suitcase was donated by Selwyn Freed.</p>
+                </scopecontent>
+                <c id="d9e1505" level="file">
+                    <did>
+                        <container type="box"/>
+                        <container type="folder"/>
+                        <unittitle>Suitcase</unittitle>
+                        <unitdate era="ce" calendar="gregorian">undated</unitdate>
+                    </did>
+                </c>
+                <c id="d9e1513" level="file">
+                    <did>
+                        <container type="box"/>
+                        <container type="folder"/>
+                        <unittitle>Celia Adler calling card holder</unittitle>
+                        <unitdate era="ce" calendar="gregorian">1916</unitdate>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>
